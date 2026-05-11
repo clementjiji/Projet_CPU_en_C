@@ -1,0 +1,30 @@
+# Fichiers objets et binaires
+*.o
+*.a
+*.so
+*.exe
+
+# Dossier de build
+build/
+
+# Exécutable du projet
+tme
+
+# Fichiers Zone.Identifier (Windows / WSL)
+*.Identifier
+*Zone.Identifier
+
+# Editeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
